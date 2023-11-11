@@ -1,7 +1,7 @@
 +++
 title = 'Football'
 date = 2023-10-02T21:39:21-05:00
-draft = true
+draft = false
 +++
 The International one, not the American one.
 <!--more-->

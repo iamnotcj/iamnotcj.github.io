@@ -1,7 +1,7 @@
 +++
 title = 'Reverse Engineering MyDoom.A'
 date = 2022-04-15T13:50:03-05:00
-draft = true
+draft = false
 +++
 This is a older article I made about taking apart a virus called MyDoom. It was
 a virus that caused a lot of damage in the early 2000s.

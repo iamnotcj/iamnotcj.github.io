@@ -1,7 +1,7 @@
 +++
 title = 'Young Physicist'
 date = 2023-09-15T03:19:14-05:00
-draft = true
+draft = false
 featured = false
 +++
 Insert Oppenheimer reference here.

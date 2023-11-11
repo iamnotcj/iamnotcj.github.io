@@ -1,7 +1,7 @@
 +++
 title = 'FindMyPassword.exe'
 date = 2022-03-20T13:51:01-05:00
-draft = true
+draft = false
 +++
 This is a older article where I solve a crackme challenge.
 <!--more-->

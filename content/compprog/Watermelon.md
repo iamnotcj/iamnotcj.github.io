@@ -1,7 +1,7 @@
 +++
 title = 'Watermelon'
 date = 2023-09-11T15:36:56-05:00
-draft = true
+draft = false
 +++
 I've recently learned about Competitive Programming and started solving 
 problems\.\.\. 

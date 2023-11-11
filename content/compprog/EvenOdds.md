@@ -1,7 +1,7 @@
 +++
 title = 'Even Odds'
 date = 2023-10-03T01:39:39-05:00
-draft = true
+draft = false
 +++
 Evening the odds?
 <!--more-->

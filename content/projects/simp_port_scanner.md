@@ -1,7 +1,7 @@
 +++
 title = 'Writing a simple port scanner in Rust'
 date = 2023-11-07T21:47:09-06:00
-draft = true
+draft = false
 featured = true
 +++
 A port scanner that will be expanded upon in future blog updates. 

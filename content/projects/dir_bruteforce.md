@@ -1,7 +1,7 @@
 +++
 title = 'Writing a Web Directory Bruteforce tool in Go'
 date = 2023-11-09T21:47:21-06:00
-draft = true
+draft = false
 featured = true
 +++
 Simple and Multi-Threaded.

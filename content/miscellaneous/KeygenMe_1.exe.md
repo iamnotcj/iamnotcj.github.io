@@ -1,7 +1,7 @@
 +++
 title = 'KeygenMe_1.exe'
 date = 2022-03-15T13:51:10-05:00
-draft = true
+draft = false
 +++
 This is a older article where I solve a crackme challenge.
 <!--more-->

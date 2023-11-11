@@ -1,7 +1,7 @@
 +++
 title = 'Example 1'
 date = 2023-09-15T03:19:14-05:00
-draft = true
+draft = false
 featured = false
 +++
 Lets apply some of the stuff that we learned to this challenge!

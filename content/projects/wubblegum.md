@@ -1,7 +1,7 @@
 +++
 title = 'Wubblegum 2.0'
 date = 2023-08-16T03:19:04-05:00
-draft = true
+draft = false
 featured = true
 +++
 An All-in-one security tool for smartcards!
