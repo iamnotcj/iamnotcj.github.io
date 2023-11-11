@@ -1,7 +1,7 @@
 +++
 title = 'Chat Room'
 date = 2023-10-04T20:40:08-05:00
-draft = true
+draft = false
 +++
 Do people still use skype? Asking for a friend.
 <!--more-->
