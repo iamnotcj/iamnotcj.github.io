@@ -1,0 +1,35 @@
+baseURL = "https://iamnotcj.github.io/"
+languageCode = "en-us"
+title = "C.J. Anih"
+defaultContentLanguage = 'en' #default language
+[params] 
+  brand = "Home"# set the brand of your site
+  avatarURL = "/images/home/bruh.png"# avatar, replace your avatar in the /static/images/
+  author = "C.J. Anih" # name
+  authorDescription = "Professional Tinkerer"# description
+  info =  "Welcome to my site! This is where I document all of the random stuff I'm learning/doing in my spare time." # information of your blog site
+  #favicon = "/images/avatar.png" # blog site icon，replace your avatar in the /static/images/
+
+[menu]
+  [[menu.main]]
+        identifier = "Projects"
+        name = "Projects"
+        url = "/projects/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "compprog"
+        name = "Comp. Programming"
+        url = "/compprog"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "Misc."
+        name = "Misc."
+        url = "/miscellaneous"
+        weight = 3
+
+
+  [param.options] 
+    showDarkMode = true # is show dark mode button
+    enableMultiLang = true # is show multi language button
